@@ -6,7 +6,7 @@ Prettier configuration
 
 In your package.json, use
 
-```
+```json
 {
   "name": "my-cool-library",
   "version": "9000.0.1",
@@ -16,10 +16,10 @@ In your package.json, use
 
 or in the `.prettierrc.json` file in your root project, put
 
-```
+```json
 "@devpulsion/prettier-config"
 ```
 
 ## More info
 
-Please refer to https://prettier.io/docs/en/configuration.html#sharing-configurations
+Please refer to [prettier doc](https://prettier.io/docs/en/configuration.html#sharing-configurations)
