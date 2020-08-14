@@ -1,6 +1,6 @@
 {
   "name": "@devpulsion/prettier-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Prettier configuration",
   "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/prettier-config/",
   "bugs": {
