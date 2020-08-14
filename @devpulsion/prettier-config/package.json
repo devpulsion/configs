@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/devpulsion/configs.git",
-    "directory": "packages/prettier-config"
+    "directory": "@devpulsion/prettier-config"
   },
   "license": "MIT",
   "author": "devpulsion",
