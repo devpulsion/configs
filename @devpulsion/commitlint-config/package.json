@@ -1,0 +1,30 @@
+{
+  "name": "@devpulsion/commitlint-config",
+  "version": "1.0.0",
+  "description": "Commitlint configuration",
+  "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/commitlint-config/",
+  "bugs": {
+    "url": "https://github.com/devpulsion/configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devpulsion/configs.git",
+    "directory": "@devpulsion/commitlint-config"
+  },
+  "license": "MIT",
+  "author": "devpulsion",
+  "engines": {
+    "node": ">=12.16.0"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@commitlint/cli": "^9.0.0"
+  },
+  "dependencies": {
+    "@commitlint/config-conventional": "9.0.0"
+  }
+}
