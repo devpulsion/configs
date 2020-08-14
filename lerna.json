@@ -1,0 +1,12 @@
+{
+  "packages": [
+    "@devpulsion/*"
+  ],
+  "version": "1.0.0",
+  "includeMergedTags": true,
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com"
+    }
+  }
+}
