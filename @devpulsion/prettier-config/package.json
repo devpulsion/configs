@@ -1,0 +1,30 @@
+{
+  "name": "@devpulsion/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration",
+  "homepage": "https://github.com/devpulsion/configs/tree/master/packages/prettier-config/",
+  "bugs": {
+    "url": "https://github.com/devpulsion/configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devpulsion/configs.git",
+    "directory": "packages/prettier-config"
+  },
+  "license": "MIT",
+  "author": "devpulsion",
+  "engines": {
+    "node": ">=12.16.0"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "^2.0.4"
+  },
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
