@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.16.1
-          registry-url: 'https://npm.pkg.github.com'
       - name: Git Identity
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -77,8 +76,7 @@ jobs:
         run: |
           yarn lerna publish from-package --yes
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
       - uses: actions/github-script@0.8.0
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
