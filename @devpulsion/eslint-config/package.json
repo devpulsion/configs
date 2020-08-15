@@ -1,6 +1,6 @@
 {
   "name": "@devpulsion/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint generic configuration",
   "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/eslint-config/",
   "bugs": {
