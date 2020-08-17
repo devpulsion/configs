@@ -1,0 +1,34 @@
+{
+  "name": "@devpulsion/eslint-config-node",
+  "version": "1.0.2",
+  "description": "Eslint generic configuration",
+  "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/eslint-config-node/",
+  "bugs": {
+    "url": "https://github.com/devpulsion/configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devpulsion/configs.git",
+    "directory": "@devpulsion/eslint-config-node"
+  },
+  "license": "MIT",
+  "author": "devpulsion",
+  "engines": {
+    "node": ">=12.16.0"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@devpulsion/eslint-config": "^1.0.2",
+    "eslint-plugin-node": "^11.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^7.7.0"
+  },
+  "devDependencies": {
+    "eslint": "7.7.0"
+  }
+}
