@@ -1,0 +1,47 @@
+{
+  "name": "@devpulsion/eslint-config-react",
+  "version": "1.0.0",
+  "description": "Eslint configuration for react",
+  "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/eslint-config-react/",
+  "bugs": {
+    "url": "https://github.com/devpulsion/configs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devpulsion/configs.git",
+    "directory": "@devpulsion/eslint-config-react"
+  },
+  "license": "MIT",
+  "author": "devpulsion",
+  "engines": {
+    "node": ">=12.16.0"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.8"
+  },
+  "peerDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.8",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.8",
+    "prettier": "^2.0.5"
+  }
+}
