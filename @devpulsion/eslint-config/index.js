@@ -2,9 +2,8 @@
 
 module.exports = {
   extends: [
-    'eslint:recommended',
+    'eslint-config-airbnb-base',
     './plugins/filenames',
-    './plugins/import',
     './plugins/prettier',
     './plugins/unicorn',
     './rules/basics',
