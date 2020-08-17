@@ -24,6 +24,8 @@ In your `.eslintrc`
 
 ### Example with babel
 
+You will need the package `eslint-plugin-babel` ^5.0.0
+
 In your `.eslintrc`
 
 ```json
@@ -62,6 +64,13 @@ And for example in your `.babelrc`
 ```
 
 ### Example with babel and import plugin
+
+You will need the package
+
+- `eslint-plugin-babel` ^5.0.0
+- `eslint-import-resolver-babel-module` ^5.1.2
+- `babel-plugin-module-resolver`
+
 
 In your `.eslintrc`
 
