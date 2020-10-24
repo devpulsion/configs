@@ -26,5 +26,8 @@
   },
   "dependencies": {
     "@commitlint/config-conventional": "9.0.0"
+  },
+  "devDependencies": {
+    "@monorepo-utils/collect-changelog": "^2.2.0"
   }
 }
