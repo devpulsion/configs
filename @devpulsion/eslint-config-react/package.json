@@ -1,6 +1,6 @@
 {
   "name": "@devpulsion/eslint-config-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint configuration for react",
   "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/eslint-config-react/",
   "bugs": {
