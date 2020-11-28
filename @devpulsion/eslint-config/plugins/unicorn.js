@@ -28,7 +28,7 @@ module.exports = {
       "unicorn/escape-case": "error",
 
       // https://github.com/sindresorhus/eslint-plugin-unicorn/blob/master/docs/rules/expiring-todo-comments.md
-      "unicorn/expiring-todo-comments": ["error", { "allowWarningComments": false } ],
+      "unicorn/expiring-todo-comments": "off",
 
       // https://github.com/sindresorhus/eslint-plugin-unicorn/blob/master/docs/rules/explicit-length-check.md
 			"unicorn/explicit-length-check": "error",

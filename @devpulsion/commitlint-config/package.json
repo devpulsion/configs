@@ -1,6 +1,6 @@
 {
   "name": "@devpulsion/commitlint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Commitlint configuration",
   "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/commitlint-config/",
   "bugs": {
@@ -26,5 +26,8 @@
   },
   "dependencies": {
     "@commitlint/config-conventional": "9.0.0"
+  },
+  "devDependencies": {
+    "@monorepo-utils/collect-changelog": "^2.2.0"
   }
 }
