@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.0.6 (2020-11-28)
+
+
+
+# 1.4.0 (2020-11-28)
+
+
+
+# 1.3.0 (2020-10-24)
+
+
+### Bug Fixes
+
+* disable unicorn/expiring-todo-comments eslint rule ([a250f4e](https://github.com/devpulsion/configs/commit/a250f4e4a6ebd614b6a9a589b1a14d022de2f7f6))
+* make todo warning and not error ([07a8161](https://github.com/devpulsion/configs/commit/07a8161af5302c5ee63fab928a157c057db5e0c1))
+
+
+
+## 1.2.9 (2020-08-17)
+
+
+### Bug Fixes
+
+* lower node version requirement ([abe16c4](https://github.com/devpulsion/configs/commit/abe16c42c15d519fab66bbcfecd778694f5839a5))
+* **eslint-config:** clean package deps ([54ff88f](https://github.com/devpulsion/configs/commit/54ff88f4d09a28ebf52c04fdcc3ae266922b1d11))
+* **eslint-config:** use airbnb ([85bb49b](https://github.com/devpulsion/configs/commit/85bb49b417ae47f01ec89215d1d84edadeb797e6))
+* add eslint-config ([301e542](https://github.com/devpulsion/configs/commit/301e542cf7f515294dc573d26135c7d5eb339ba5))
+
+
+
+
+
 ## 1.0.5 (2020-10-24)
 
 

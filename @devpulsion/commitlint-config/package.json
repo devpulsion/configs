@@ -1,6 +1,6 @@
 {
   "name": "@devpulsion/commitlint-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Commitlint configuration",
   "homepage": "https://github.com/devpulsion/configs/tree/master/@devpulsions/commitlint-config/",
   "bugs": {
